@@ -1,5 +1,5 @@
 
-import file from './assets/shaurmamenu_seabreeze.pdf'
+import file from './assets/shaurmamenu.pdf'
 
 function App() {
   window.open(file,"_self")
